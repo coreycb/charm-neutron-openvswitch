@@ -88,6 +88,7 @@ REQUIRED_INTERFACES = {
 }
 
 BASE_GIT_PACKAGES = [
+    'ipset',
     'libffi-dev',
     'libssl-dev',
     'libxml2-dev',
